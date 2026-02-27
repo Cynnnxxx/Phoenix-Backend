@@ -3,6 +3,7 @@
 ![Imgur](https://i.imgur.com/5Sw2FXF.png)
 
 Phoenix Backend is a universal Fortnite private server backend written in [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+If you use for project please credit me
 
 Created by [Cynx](https://github.com/cynnnxxx), This is a modded backend, all main backend credits to [Burlone](https://github.com/burlone0)
 
