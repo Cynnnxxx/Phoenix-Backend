@@ -77,16 +77,16 @@ Created by [Cynx](https://github.com/cynnnxxx), This is a modded backend, all ma
 ## Discord Bot Commands
 Alot of discord bot commands 30+
 ### How to setup multiple gameservers
-1) Go to **Config/config.json** in the directory you extracted Reload Backend into.
+1) Go to **Config/config.json** in the directory you extracted Phoenix Backend into.
 2) Open it, you should see a **"gameServerIP"** section in the file.
 3) To add more gameservers you will have to do it like this `"gameServerIP": ["127.0.0.1:7777:playlist_defaultsolo", "127.0.0.1:7777:playlist_defaultduo"],`
 4) You have now added solos and duos to your matchmaking 
 
 ## How to start Phoenix Backend
 1) Install [NodeJS](https://nodejs.org/en/) and [MongoDB](https://www.mongodb.com/try/download/community).
-2) **Download** and **Extract** Reload Backend to a safe location.
+2) **Download** and **Extract** Phoenix Backend to a safe location.
 3) Run **"install_packages.bat"** to install all the required modules.
-4) Go to **Config/config.json** in the directory you extracted Reload Backend into.
+4) Go to **Config/config.json** in the directory you extracted Phoenix Backend into.
 5) Open it, set your discord bot token **(DO NOT SHARE THIS TOKEN)** and **save it**. The discord bot will be used for creating accounts and managing your account (You can disable the discord bot by entering "bUseDiscordBot" to false in "Config/config.json").
 6) Run **"start.bat"**, if there is no errors, it should work.
 7) Use something to redirect the Fortnite servers to **localhost:8080** (Which could be fiddler, ssl bypass that redirects servers, etc...)
@@ -149,7 +149,7 @@ Launch it, then go to Discord and type **/exchange-code**, copy the code and pas
 This **project/backend** is licensed under the **BSD 3-Clause License.**
 
 ## Disclaimer
-All **Fortnite OG** related projects named **Project Phoenix**, **Phoenix**, **Phoenix Backend** or using **our official images** are not owned or affiliated with us. Please do not trust and report them via discord to **cynnnxxx**. All rights are licensed to [burlone0](https://github.com/Cynnnxxx)
+All **Fortnite OG** related projects named **Project Phoenix**, **Phoenix**, **Phoenix Backend** or using **our official images** are not owned or affiliated with us. Please do not trust and report them via discord to **cynnnxxx**. All rights are licensed to [cynnnxxx](https://github.com/Cynnnxxx)
 
 ## Credits
 Credits have been moved to the **Contributors** section of github. If I forgot to include someone, write to **cynnnxxx** on Discord
