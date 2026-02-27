@@ -152,8 +152,6 @@ This **project/backend** is licensed under the **BSD 3-Clause License.**
 ## Disclaimer
 All **Fortnite OG** related projects named **Project Phoenix**, **Phoenix**, **Phoenix Backend** or using **our official images** are not owned or affiliated with us. Please do not trust and report them via discord to **cynnnxxx**. All rights are licensed to [cynnnxxx](https://github.com/Cynnnxxx)
 
-## Credits
-Credits have been moved to the **Contributors** section of github. If I forgot to include someone, write to **cynnnxxx** on Discord
 
 ---
 
