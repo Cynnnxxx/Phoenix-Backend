@@ -1,0 +1,65 @@
+{
+    "events": [
+		{
+			"gameId": "Fortnite",
+			"displayDataId": "corelg",
+			"eventId": "corelg_cup",
+			"announcementTime": "2024-03-01T01:36:52Z",
+			"beginTime": "2025-06-14T10:00:00Z",
+			"endTime": "2025-06-14T19:00:00Z",
+			"platforms": ["PS4", "XboxOne", "Switch", "Android", "IOS", "Windows"],
+			"regions": ["NAE", "ME", "NAW", "OCE", "ASIA", "EU", "BR"],
+			"metadata": {
+				"TrackedStats": ["PLACEMENT_STAT_INDEX", "TEAM_ELIMS_STAT_INDEX", "MATCH_PLAYED_STAT"],
+				"minimumAccountLevel": 0
+			},
+            "eventWindows": [
+                {
+                    "eventWindowId": "corelg_cup1",
+                    "eventTemplateId": "corelg_cups",
+                    "beginTime": "2025-06-14T10:00:00Z",
+                    "endTime": "9999-99-99T19:00:00Z",
+                    "countdownBeginTime": "2023-06-13T15:00:00.000Z",
+                    "metadata": {
+                        "ServerReplays": true,
+                        "RoundType": "Qualifiers"
+                    },
+                    "payoutDelay": 10,
+                    "requireAllTokens": [],
+                    "requireNoneTokensCaller": [],
+                    "teammateEligibility": "any",
+                    "visibility": "public",
+                    "canLiveSpectate": false
+                }
+            ]
+        }
+    ],
+    "player": {},
+    "scores": [],
+    "templates": [
+        {
+			"eventTemplateId": "corelg_cups",
+			"gameId": "Fortnite",
+			"matchCap": 1000,
+			"persistentScoreId": "Points",
+			"playlistId": "Playlist_DefaultSolo",
+            "scoringRules": [
+				{
+					"matchRule": "lte",
+					"rewardTiers": [
+						{"keyValue": 1, "multiplicative": false, "pointsEarned": 50},
+						{"keyValue": 5, "multiplicative": false, "pointsEarned": 5},
+						{"keyValue": 15, "multiplicative": false, "pointsEarned": 5},
+						{"keyValue": 25, "multiplicative": false, "pointsEarned": 5}
+					],
+					"trackedStat": "PLACEMENT_STAT_INDEX"
+				},
+				{
+					"matchRule": "gte",
+					"rewardTiers": [{"keyValue": 1, "multiplicative": true, "pointsEarned": 20}],
+					"trackedStat": "TEAM_ELIMS_STAT_INDEX"
+				}
+			]
+        }
+    ]
+}

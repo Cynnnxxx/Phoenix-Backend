@@ -1,0 +1,182 @@
+{
+  "_comment": "Para adicionar itens aos bundles, use o ID do item (ex: 'Character_Believer_Vortyx'). O sistema busca em allathena.json e allchaos.json",
+  "bundles": {
+
+    "Both Sides Bundle": {
+      "description": "Both Sides Bundle",
+      "items": [
+        "CID_295_Athena_Commando_M_CupidWinter",
+        "CID_343_Athena_Commando_M_CupidDark",
+        "Pickaxe_ID_019_Heart",
+        "BID_022_Cupid",
+        "Wrap_031_HeistHeart",
+        "EID_TrueLove"
+      ]
+    },
+
+    "Tryhard Bundle": {
+      "description": "Tryhard Bundle",
+      "items": [
+"CID_861_Athena_Commando_F_Elastic_B",
+"CID_805_Athena_Commando_F_PunkDevilSummer",
+"CID_397_Athena_Commando_F_TreasureHunterFashion",
+"Pickaxe_ID_190_GolfClub",
+"BID_229_LuckyRiderMale",
+"Wrap_223_Fryangles",
+"Umbrella_AssassinSuit",
+"EID_Laugh"
+      ]
+    },
+
+    "Custom Bundle": {
+      "description": "Custom Bundle",
+      "items": [
+       "Character_BraveBuild_Vortyx", 
+       "Character_PineTrimSurge_Vortyx", 
+       "Pickaxe_ID_140_StreetGoth", 
+       "BID_270_StreetDemon", 
+       "Wrap_097_NeonLines", 
+       "EID_JustHome", 
+       "mbrella_Season_04"
+      ]
+    },
+
+    "Heist Bundle": {
+      "description": "Heist Bundle",
+      "items": [
+        "CID_206_Athena_Commando_M_Bling", 
+        "CID_195_Athena_Commando_F_Bling", 
+        "CID_462_Athena_Commando_M_HeistSummer", 
+        "Pickaxe_ID_092_Bling", 
+        "BID_A_070_WildCardFemale", 
+        "Wrap_029_HeistClub", 
+        "Glider_ID_072_Bling", 
+        "EID_WalkieWalk", 
+        "LSID_161_H7OutfitsA"
+      ]
+    },
+
+    "Dark Bundle": {
+      "description": "Dark Bundle",
+      "items": []
+    },
+
+    "Pre-Historic Bundle": {
+      "description": "Pre-Historic Bundle",
+      "items": []
+    },
+
+    "Kaudy's Bundle": {
+      "description": "Kaudy's Bundle",
+      "items": [
+        "CID_748_Athena_Commando_F_Hitman", 
+        "Character_CactusRocker_Vortyx", 
+        "Pickaxe_ID_014_WinterCamo", 
+        "BID_507_DonutPlate", 
+        "EID_Laugh", 
+        "Glider_ID_238_Soy_RWO5D", 
+        "Wrap_295_CatBurglarGhost"
+      ]
+    },
+
+    "Bilhar's Bundle": {
+      "description": "Bilhar's Bundle",
+      "items": [
+        "CID_434_Athena_Commando_F_StealthHonor", 
+        "Character_StallionAviator_Vortyx", 
+        "Pickaxe_ID_035_Prismatic", 
+        "BID_138_Celestial", 
+        "Wrap_078_SlurpJuice", 
+        "Umbrella_Season_09", 
+        "EID_WristFlick"
+      ]
+    },
+
+    "Travis Bundle": {
+      "description": "Travis Bundle",
+      "items": [
+        "CID_761_Athena_Commando_M_CycloneSpace", 
+        "CID_703_Athena_Commando_M_Cyclone",
+        "Pickaxe_ID_359_CycloneMale",
+        "BID_468_Cyclone",
+        "BID_520_CycloneUniverse",
+        "Glider_ID_196_CycloneMale",
+        "EID_CycloneHeadBang",
+        "EID_Cyclone",
+        "Wrap_210_Thermal",
+        "LSID_231_CycloneBraid",
+        "LSID_214_CycloneA",
+        "LSID_215_CycloneB",
+        "MusicPack_nokia"
+      ]
+    },
+
+    "Competitive Bundle": {
+      "description": "Competitive Bundle",
+      "items": [
+        "CID_796_Athena_Commando_F_Tank",
+        "Pickaxe_ID_074_SharpDresser"
+      ]
+    },
+
+    "Pickaxe Bundle": {
+      "description": "Pickaxe Bundle",
+      "items": [
+        "Pickaxe_ID_215_Pug",
+        "Pickaxe_ID_363_LollipopTricksterFemale",
+        "HalloweenScythe",
+        "Pickaxe_ID_202_AshtonBoardwalk",
+        "Pickaxe_ID_197_HoppityHeist"
+      ]
+    },
+
+    "Emote Bundle": {
+      "description": "Emote Bundle",
+      "items": [
+        "EID_LivingLarge",
+        "EID_KPopDance01",
+        "EID_ArtGiant",
+        "EID_SquishyDance",
+        "EID_Saxophone"
+      ]
+    },
+
+    "Essentials Bundle": {
+      "description": "Essentials Bundle",
+      "items": [
+        "Pickaxe_ID_407_HeistShadow",
+        "Wrap_097_NeonLines",
+        "EID_Floss"
+      ]
+    },
+
+    "Glider Bundle": {
+      "description": "Glider Bundle",
+      "items": [
+        "Umbrella_Season_11",
+        "Umbrella_Season_06",
+        "Umbrella_Season_09"
+      ]
+    },
+
+    "Cynx's Bundle": {
+      "description": "Cynx's Bundle",
+      "items": [
+        "CID_822_Athena_Commando_F_Angler",
+        "Character_skeleton_Vortyx",
+        "Pickaxe_ID_376_FNCS",
+        "EID_TwistDaytona",
+        "Glider_ID_224_SpaceWandererFemale"
+      ]
+    },
+
+    "Boost": {
+      "description": "Boost Bundle",
+      "items": [
+        "Pickaxe_ID_179_StarWand",
+        "CID_757_Athena_Commando_F_WildCat"
+      ]
+    }
+
+  }
+}

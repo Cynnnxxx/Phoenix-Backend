@@ -1,0 +1,167 @@
+{
+    "contentType": "collection",
+    "contentId": "motd-default-collection",
+    "tcId": "634e8e85-e2fc-4c68-bb10-93604cf6605f",
+    "contentItems": [
+      {
+        "contentType": "content-item",
+        "contentId": "46874c56-0973-4cbe-ac98-b580c5b36df5",
+        "tcId": "61fb3dd8-f23d-45cc-9058-058ab223ba5c",
+        "contentFields": {
+          "body": {
+              "en": "Version 0.0 [Public] Official Release"
+          },
+          "entryType": "Website",
+          "image": [
+            {
+              "width": 1920,
+              "height": 1080,
+              "url": "https://i.imgur.com/oMvVBgB.jpeg"
+            }
+          ],
+          "tabTitleOverride": "Axys",
+          "tileImage": [
+            {
+              "width": 1024,
+              "height": 512,
+              "url": "https://i.imgur.com/2f5eAku.png"
+            }
+          ],
+          "title": {
+            "ar": "مرحبًا بك في Axys!",
+            "en": "Welcome to Axys!",
+            "de": "Willkommen bei Axys!",
+            "es": "¡Bienvenidos a Axys!",
+            "es-419": "¡Bienvenidos a Axys!",
+            "fr": "Bienvenue sur Axys !",
+            "it": "Benvenuto in Axys!",
+            "ja": "Axysへようこそ！",
+            "ko": "Axys에 오신 것을 환영합니다!",
+            "pl": "Witaj w Axysze!",
+            "pt-BR": "Bem-vindo ao Axys!",
+            "ru": "Добро пожаловать в Axys!",
+            "tr": "Axys'a Hoş Geldiniz!"
+          },
+          "videoAutoplay": true,
+          "videoLoop": true,
+          "videoMute": true,
+          "videoStreamingEnabled": false,
+          "websiteButtonText": "JOIN THE DISCORD",
+          "websiteURL": "https://discord.gg/T9dtVC38xk"
+        },
+        "contentHash": "projectAxysContentHash1337",
+        "contentSchemaName": "MotdWebsiteNewsWithVideo"
+      },
+      {
+        "contentType": "content-item",
+        "contentId": "a1b2c3d4-0973-4cbe-ac98-b580c5b36df6",
+        "tcId": "72fc4ee9-f24e-56dd-a169-069bc334cb6d",
+        "contentFields": {
+          "body": {
+              "en": "Discover new game modes, events,updates and anticheat to dominate cheaters."
+          },
+          "entryType": "Website",
+          "image": [
+            {
+              "width": 1920,
+              "height": 1080,
+              "url": "https://i.imgur.com/v6A3Nq1.jpeg"
+            }
+          ],
+          "tabTitleOverride": "Axys - What's New",
+          "tileImage": [
+            {
+              "width": 1024,
+              "height": 512,
+              "url": "https://i.imgur.com/2f5eAku.png"
+            }
+          ],
+          "title": {
+            "en": "What's New"
+          },
+          "videoAutoplay": true,
+          "videoLoop": true,
+          "videoMute": true,
+          "videoStreamingEnabled": false,
+          "websiteButtonText": "JOIN THE DISCORD",
+          "websiteURL": "https://discord.gg/T9dtVC38xk"
+        },
+        "contentHash": "projectAxysContentHash1338",
+        "contentSchemaName": "MotdWebsiteNewsWithVideo"
+      },
+      {
+        "contentType": "content-item",
+        "contentId": "b2c3d4e5-0973-4cbe-ac98-b580c5b36df7",
+        "tcId": "83fd5ff0-e35f-67ee-b270-170cd445dc7e",
+        "contentFields": {
+          "body": {
+              "en": "Compete in tournaments and climb the leaderboards."
+          },
+          "entryType": "Website",
+          "image": [
+            {
+              "width": 1920,
+              "height": 1080,
+              "url": "https://i.imgur.com/9XZW4rJ.jpeg"
+            }
+          ],
+          "tabTitleOverride": "Axys - Compete",
+          "tileImage": [
+            {
+              "width": 1024,
+              "height": 512,
+              "url": "https://i.imgur.com/2f5eAku.png"
+            }
+          ],
+          "title": {
+            "en": "Compete"
+          },
+          "videoAutoplay": true,
+          "videoLoop": true,
+          "videoMute": true,
+          "videoStreamingEnabled": false,
+          "websiteButtonText": "JOIN THE DISCORD",
+          "websiteURL": "https://discord.gg/T9dtVC38xk"
+        },
+        "contentHash": "projectAxysContentHash1339",
+        "contentSchemaName": "MotdWebsiteNewsWithVideo"
+      },
+      {
+        "contentType": "content-item",
+        "contentId": "c3d4e5f6-0973-4cbe-ac98-b580c5b36df8",
+        "tcId": "94fe6ff1-f46f-78ff-c381-281de556ed8f",
+        "contentFields": {
+          "body": {
+              "en": "Drop into late game arena mode and be the top 1 ."
+          },
+          "entryType": "Website",
+          "image": [
+            {
+              "width": 1920,
+              "height": 1080,
+              "url": "https://i.imgur.com/oMvVBgB.jpeg"
+            }
+          ],
+          "tabTitleOverride": "Thank's Bus Driver",
+          "tileImage": [
+            {
+              "width": 1024,
+              "height": 512,
+              "url": "https://i.imgur.com/9NRa6nZ.jpeg"
+            }
+          ],
+          "title": {
+            "en": "Community"
+          },
+          "videoAutoplay": true,
+          "videoLoop": true,
+          "videoMute": true,
+          "videoStreamingEnabled": false,
+          "websiteButtonText": "JOIN THE DISCORD",
+          "websiteURL": "https://discord.gg/T9dtVC38xk"
+        },
+        "contentHash": "projectAxysContentHash1340",
+        "contentSchemaName": "MotdWebsiteNewsWithVideo"
+      }
+    ]
+}

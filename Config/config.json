@@ -1,0 +1,167 @@
+{
+  "//": "Core server config (added because the file was missing its opening object).",
+  "port": 3013, // change this to 3551 if you use reboot launcher
+  "max_size": 45,
+
+  "moderators": [
+    "", // put your discord id's here
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "discord": {
+    "bUseDiscordBot": true,
+    "bot_token": "YOUR_BOT_TOKEN",
+    "bEnableInGamePlayerCount": true,
+    "clientId": "",
+    "clientSecret": "",
+    "guildId": ""
+  },
+  "maintenance": false,
+  "isTesting": false,
+  "mongodb": {
+    "database": "mongodb://127.0.0.1/Phoenix"
+  },
+  "chat": {
+    "//": "Disabling global chat can help the server to perform faster as less resources are used.",
+    "EnableGlobalChat": false
+  },
+
+  "bEnableDebugLogs": false,
+  "bEnableFormattedLogs": true,
+  "bEnableRebootUser": false,
+  "bEnableCrossBans": true,
+
+  "//": "Global toggle: when true, arena rewards (hype/vbucks/xp) are disabled for kills/wins, and only tournament points are given for tournament playlists.",
+  "enableTournaments": true,
+
+  "//": "If you want to use the backend on reboot, leave 3551 as the port",
+  "Api": {
+    "bApiKey": "a9f3e5c2-38b4-4d0f-9a7e-84ec4bdb9b35",
+    "reasons": {
+      "Kill": 0,
+      "Win": 0
+    }
+  },
+
+  "//": "Matchmaker polling interval (requested change: 1 second)",
+  "matchmakerQueuePollMs": 1000,
+  "matchmakerMaxRetries": 5,
+  "matchmakerSkipPingCheck": true,
+
+  "Website": {
+    "bUseWebsite": true,
+    "clientId": "",
+    "clientSecret": "",
+    "redirectUri": "http://127.0.0.1:${websiteport}/oauth2/callback",
+    "websiteport": 100
+  },
+
+  "//": "Matchmaker endpoints (region-specific). Use ws://host:port.",
+  "matchmakerIP": "127.0.0.1:1111",
+  "matchmakerIPEU": "127.0.0.1:1111",
+  "matchmakerIPNAE": "127.0.0.1:4444",
+  "matchmakerIPBRA": "127.0.0.1:5555",
+
+  "//": "change this ip to your radmin ip or vps ip if your going to host for your project.",
+  "gameServerIP": [
+    "127.0.0.1:7777:playlist_showdownalt_solo" // add
+  ],
+
+  "//": "For 'BattlePassSeason' enter only the number of your season (from 2 to 20)",
+  "bEnableBattlepass": true,
+  "bBattlePassSeason": 14,
+
+  "//": "For 'bVersionJoinable' you can set a season that is also `9.10` and not just `9`",
+  "bEnableOnlyOneVersionJoinable": false,
+  "bVersionJoinable": 14.40,
+
+  "//": "If 'bUseAutoRotate' is enabled it will automatically rotate the item shop using the time you put in 'bRotateTime', you can select the season limit with 'bSeasonLimit' (please only do up to season 10, it might be a bit broken after!), 'bRotateTime' means what time the shop rotates (it is UTC and uses the 24 hour clock, not 12 hour), for 'bItemShopWebhook' you have to generate a webhook to your item shop channel and put the link here, you can select how many cosmetics are in daily: 'bDailyItemsAmount' and featured: 'bFeaturedItemsAmount'",
+  "bUseAutoRotate": true,
+  "bEnableAutoRotateDebugLogs": false,
+  "bEnableDiscordWebhook": true,
+  "bChapterlimit": "2",
+  "bSeasonlimit": "4",
+  "bRotateTime": "00:00",
+  "bExcludedItems": [
+    "CID_VIP_Athena_Commando_M_GalileoGondola_SG",
+    "CID_636_Athena_Commando_M_GalileoGondola_78MFZ",
+    "CID_637_Athena_Commando_M_GalileoOutrigger_7Q0YU",
+    "CID_VIP_Athena_Commando_M_GalileoFerry_SG",
+    "CID_VIP_Athena_Commando_F_GalileoRocket_SG",
+    "CID_568_Athena_Commando_M_RebirthSoldier"
+  ],
+  "bItemShopWebhook": "https://discord.com/api/webhooks/1464634535542263944/PTJgQ74n049x6boqnYOrW0zMRESoyZ3zB908ISwkLc0G6Jj3mjZr-XGRZZz2T8Glng39",
+  "bDailyItemsAmount": 12,
+  "bFeaturedItemsAmount": 4,
+
+  "//": "By enabling 'bEnableReports' in-game reports will work, a player will not be able to spam reports",
+  "bEnableReports": false,
+  "bReportChannelId": "your-discord-channel-id-here",
+
+  "//": "Anticheat: bKickMessage shown when kicked; bSupportWebhook = false-positive appeals; bKickBanWebhook = Discord alerts when someone is kicked or banned.",
+  "anticheat": {
+    "bKickMessage": "Stop cheating",
+    "bSupportWebhook": "",
+    "bKickBanWebhook": ""
+  },
+
+  "//": "If bCompletedSeasonalQuests is set to 'true' it will set all quests except daily quests as completed",
+  "bCompletedSeasonalQuests": false,
+
+  "//": "If 'bEnableSACRewards' is enabled it will give the person who supports a creator a percentage of vbucks based on how much percentage you put in 'bPercentageSACRewards' it will give in vbucks, so if you set '25%' and there is a 1000 item in the shop vbucks will give 250 vbucks to the one who supports a creator",
+  "bEnableSACRewards": true,
+  "bPercentageSACRewards": 25,
+
+  "//": "For 'bRestartTime' use this format: [number][y, M, w, d, h, m, s] so 5m, for Month u need to add the big M not the m",
+  "bEnableAutoBackendRestart": false,
+  "bRestartTime": "5m",
+
+  "//": "If active it will send a message in the channel when the backend goes online",
+  "bEnableBackendStatus": false,
+  "bBackendStatusChannelId": "",
+
+  "//": "Use HTTPS (For VPS Side Only, Or If You Were To Setup  A Type Record To Your Own Public Adress From Your Domain) (You Also Need To Change The Examples In SSl Folder!)",
+  "bEnableHTTPS": false,
+  "//": "Only Enable if You Have SSL Certificate In The ssl Folder",
+  "ssl": {
+    "cert": "./ssl/example_certificate.crt",
+    "//ca//": "./ssl/example_ca_bundle.crt",
+    "//": "Optional (Only If You Have A CA Bundle from your ssl certificate)",
+    "key": "./ssl/example_private.key"
+  },
+
+  "//": "The Caldera Service is used for newer versions of the game! For see what season are now supported look CalderaService/guids.json and add the version on 'bGameVersion'",
+  "bEnableCalderaService": false,
+  "bGameVersion": "14.40",
+  "bCalderaServicePort": 5000,
+
+  "//": "Ignis WebSocket Client for launcher connections",
+  "bEnableIgnisClient": true,
+  "bIgnisClientPort": 9999,
+
+  "//": "Arsenic anticheat WebSocket server – client DLL connects here; set Arsenic socket URL in Arsenic/opts.h to match.",
+  "bEnableArsenicSocket": true, //
+  "bArsenicSocketPort": 2096,
+
+  "//": "These are all the events you can add to the game, like the rift in the sky!",
+  "bEnableGeodeEvent": false,
+  "geodeEventStartDate": "2020-01-01T00:00:00.000Z",
+  "bEnableCrackInTheSky": false,
+  "bEnableS4OddityPrecursor": false,
+  "bEnableS4OddityExecution": false,
+  "S4OddityEventStartDate": "2020-01-01T00:00:00.000Z",
+  "S4OddityEventsInterval": 0,
+  "bEnableS5OddityPrecursor": false,
+  "S5OddityPrecursorDate": "2020-01-01T00:00:00.000Z",
+  "bEnableS5OddityExecution": false,
+  "S5OddityExecutionDate": "2020-01-01T00:00:00.000Z",
+  "bEnableCubeLightning": false,
+  "cubeSpawnDate": "2020-01-01T00:00:00.000Z",
+  "bEnableBlockbusterRiskyEvent": false,
+  "bEnableCubeLake": false,
+  "cubeLakeDate": "2020-01-01T00:00:00.000Z"
+}

@@ -1,0 +1,121 @@
+{
+  "//": "BR Item Shop Config",
+  "daily1": {
+    "itemGrants": [
+      "AthenaCharacter:CID_594_Athena_Commando_F_SoccerZombieB"
+    ],
+    "price": 1200
+  },
+  "daily2": {
+    "itemGrants": [
+      "AthenaCharacter:CID_580_Athena_Commando_M_CuddleTeamDark"
+    ],
+    "price": 1200
+  },
+  "daily3": {
+    "itemGrants": [
+      "AthenaDance:EID_BeachBreak"
+    ],
+    "price": 500
+  },
+  "daily4": {
+    "itemGrants": [
+      "AthenaBackpack:BID_589_LadyAtlantis"
+    ],
+    "price": 1200
+  },
+  "daily5": {
+    "itemGrants": [
+      "AthenaGlider:Glider_ID_143_BattleSuit"
+    ],
+    "price": 800
+  },
+  "daily6": {
+    "itemGrants": [
+      "AthenaPickaxe:Pickaxe_Lockjaw"
+    ],
+    "price": 1200
+  },
+  "daily7": {
+    "itemGrants": [
+      "AthenaLoadingscreen:LSID_096_PlaneKey"
+    ],
+    "price": 200
+  },
+  "daily8": {
+    "itemGrants": [
+      "AthenaEmoji:Emoji_S14_HighTowerHoneyDew"
+    ],
+    "price": 200
+  },
+  "daily9": {
+    "itemGrants": [
+      "AthenaCharacter:CID_450_Athena_Commando_F_Butterfly"
+    ],
+    "price": 1200
+  },
+  "daily10": {
+    "itemGrants": [
+      "AthenaCharacter:CID_184_Athena_Commando_M_DurrburgerWorker"
+    ],
+    "price": 800
+  },
+  "daily11": {
+    "itemGrants": [
+      "AthenaBackpack:BID_074_LifeguardFemale"
+    ],
+    "price": 1500
+  },
+  "daily12": {
+    "itemGrants": [
+      "AthenaBackpack:BID_413_ForestQueen"
+    ],
+    "price": 1200
+  },
+  "featured1": {
+    "itemGrants": [
+      "AthenaCharacter:CID_033_Athena_Commando_F_Medieval"
+    ],
+    "price": 1200
+  },
+  "featured2": {
+    "itemGrants": [
+      "AthenaCharacter:CID_470_Athena_Commando_M_Anarchy"
+    ],
+    "price": 800
+  },
+  "featured3": {
+    "itemGrants": [
+      "AthenaDance:EID_Shadowboxing"
+    ],
+    "price": 200
+  },
+  "featured4": {
+    "itemGrants": [
+      "AthenaBackpack:BID_168_CupidWinterMale"
+    ],
+    "price": 1200
+  },
+  "bundle1": {
+    "itemGrants": [
+      "AthenaCharacter:CID_188_Athena_Commando_F_StreetRacerWhite",
+      "AthenaPickaxe:Pickaxe_ID_423_GreenJacketFemale1H",
+      "AthenaBackpack:BID_376_CODSquad_Plaid",
+      "AthenaDance:EID_Flex02"
+    ],
+    "price": 2700,
+    "SectionId": "Featured",
+    "TileSize": "Small"
+  },
+  "bundle2": {
+    "itemGrants": [
+      "AthenaCharacter:CID_228_Athena_Commando_M_Vampire",
+      "AthenaPickaxe:Pickaxe_ID_306_PunkDevil",
+      "AthenaBackpack:BID_394_Mastermind",
+      "AthenaDance:EID_Pump"
+    ],
+    "price": 3200,
+    "SectionId": "Featured",
+    "TileSize": "Small"
+  }
+}

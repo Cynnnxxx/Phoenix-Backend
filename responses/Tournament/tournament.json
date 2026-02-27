@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "gameId": "Fortnite",
+      "displayDataId": "corelg",
+      "eventId": "corelg_cup",
+      "announcementTime": "9999-12-04T01:36:52Z",
+      "beginTime": "2026-01-27T23:30:00Z",
+      "endTime": "9999-12-10T04:00:00Z",
+
+      "platforms": ["PS4", "XboxOne", "Switch", "Android", "IOS", "Windows"],
+      "regions": ["NAE", "ME", "NAW", "OCE", "ASIA", "EU", "BR"],
+
+      "metadata": {
+        "TrackedStats": [
+          "PLACEMENT_STAT_INDEX",
+          "TEAM_ELIMS_STAT_INDEX",
+          "MATCH_PLAYED_STAT"
+        ],
+        "minimumAccountLevel": -1
+      },
+
+      "eventWindows": [
+        {
+          "eventWindowId": "corelg_cup1",
+          "eventTemplateId": "corelg_cups",
+
+          "beginTime": "2026-01-27T23:30:00Z",
+          "endTime": "9999-12-10T04:00:00Z",
+          "countdownBeginTime": "2023-06-13T15:00:00.000Z",
+
+          "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+          },
+
+          "payoutDelay": 10,
+          "requireAllTokens": [],
+          "requireNoneTokensCaller": [],
+          "teammateEligibility": "any",
+          "visibility": "public",
+          "canLiveSpectate": false,
+
+          "leaderboardId": "corelg_cup1",
+
+          "scoreLocations": [
+            {
+              "leaderboardId": "corelg_cup1",
+              "leaderboardDefId": "corelg_cup1",
+              "scoreId": null,
+              "scoreMode": "window",
+              "isMainWindowLeaderboard": true,
+              "windowEndCondition": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "player": {},
+  "scores": [],
+
+  "templates": [
+    {
+      "eventTemplateId": "corelg_cups",
+      "gameId": "Fortnite",
+      "matchCap": 6,
+      "persistentScoreId": "Points",
+      "playlistId": "Playlist_ShowdownTournament_Solo",
+
+      "scoringRules": [
+        {
+          "matchRule": "lte",
+          "rewardTiers": [
+            { "keyValue": 1, "multiplicative": true, "pointsEarned": 10 },
+            { "keyValue": 10, "multiplicative": true, "pointsEarned": 2 }
+          ],
+          "trackedStat": "PLACEMENT_STAT_INDEX"
+        },
+        {
+          "matchRule": "gte",
+          "rewardTiers": [
+            { "keyValue": 1, "multiplicative": true, "pointsEarned": 1 }
+          ],
+          "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+        }
+      ]
+    }
+  ]
+}

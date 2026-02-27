@@ -1,0 +1,24 @@
+{
+  "gameId": "Fortnite",
+  "eventId": "corelg",
+  "eventWindowId": "",
+  "page": 0,
+  "totalPages": 1,
+  "updatedTime": "",
+  "entryTemplate": {
+    "gameId": "Fortnite",
+    "eventId": "corelg",
+    "eventWindowId": "",
+    "teamId": "",
+    "teamAccountIds": [],
+    "score": [0],
+    "pointsEarned": 0,
+    "rank": 1,
+    "percentile": 0,
+    "liveSessionId": null,
+    "pointBreakdown": {},
+    "sessionHistory": []
+  },
+  "entries": [],
+  "liveSessions": {}
+}

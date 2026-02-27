@@ -1,0 +1,236 @@
+{
+  "codes": [
+    {
+      "code": "WELCOME100",
+      "vbucks": 100,
+      "expiresAt": null
+    },
+    {
+      "code": "FREEBUCKS",
+      "vbucks": 500,
+      "expiresAt": null
+    },
+    {
+      "code": "LAUNCH2024",
+      "vbucks": 1000,
+      "expiresAt": null
+    },
+    {
+      "code": "STARTER200",
+      "vbucks": 200,
+      "expiresAt": null
+    },
+    {
+      "code": "BATTLE300",
+      "vbucks": 300,
+      "expiresAt": null
+    },
+    {
+      "code": "VICTORY500",
+      "vbucks": 500,
+      "expiresAt": null
+    },
+    {
+      "code": "ELITE750",
+      "vbucks": 750,
+      "expiresAt": null
+    },
+    {
+      "code": "PREMIUM1000",
+      "vbucks": 1000,
+      "expiresAt": null
+    },
+    {
+      "code": "LEGENDARY1500",
+      "vbucks": 1500,
+      "expiresAt": null
+    },
+    {
+      "code": "MYTHIC2000",
+      "vbucks": 2000,
+      "expiresAt": null
+    },
+    {
+      "code": "NEWPLAYER",
+      "vbucks": 250,
+      "expiresAt": null
+    },
+    {
+      "code": "DAILY250",
+      "vbucks": 250,
+      "expiresAt": null
+    },
+    {
+      "code": "WEEKLY500",
+      "vbucks": 500,
+      "expiresAt": null
+    },
+    {
+      "code": "MONTHLY1000",
+      "vbucks": 1000,
+      "expiresAt": null
+    },
+    {
+      "code": "BONUS100",
+      "vbucks": 100,
+      "expiresAt": null
+    },
+    {
+      "code": "BONUS200",
+      "vbucks": 200,
+      "expiresAt": null
+    },
+    {
+      "code": "BONUS500",
+      "vbucks": 500,
+      "expiresAt": null
+    },
+    {
+      "code": "SPECIAL750",
+      "vbucks": 750,
+      "expiresAt": null
+    },
+    {
+      "code": "EXCLUSIVE1000",
+      "vbucks": 1000,
+      "expiresAt": null
+    },
+    {
+      "code": "ULTIMATE1500",
+      "vbucks": 1500,
+      "expiresAt": null
+    },
+    {
+      "code": "EPIC2024",
+      "vbucks": 2024,
+      "expiresAt": null
+    },
+    {
+      "code": "GIFT300",
+      "vbucks": 300,
+      "expiresAt": null
+    },
+    {
+      "code": "GIFT600",
+      "vbucks": 600,
+      "expiresAt": null
+    },
+    {
+      "code": "GIFT1200",
+      "vbucks": 1200,
+      "expiresAt": null
+    },
+    {
+      "code": "REWARD400",
+      "vbucks": 400,
+      "expiresAt": null
+    },
+    {
+      "code": "REWARD800",
+      "vbucks": 800,
+      "expiresAt": null
+    },
+    {
+      "code": "REWARD1600",
+      "vbucks": 1600,
+      "expiresAt": null
+    },
+    {
+      "code": "PROMO150",
+      "vbucks": 150,
+      "expiresAt": null
+    },
+    {
+      "code": "PROMO350",
+      "vbucks": 350,
+      "expiresAt": null
+    },
+    {
+      "code": "PROMO700",
+      "vbucks": 700,
+      "expiresAt": null
+    },
+    {
+      "code": "PROMO1400",
+      "vbucks": 1400,
+      "expiresAt": null
+    },
+    {
+      "code": "SUMMER2024",
+      "vbucks": 2024,
+      "expiresAt": null
+    },
+    {
+      "code": "WINTER2024",
+      "vbucks": 2024,
+      "expiresAt": null
+    },
+    {
+      "code": "SPRING2024",
+      "vbucks": 2024,
+      "expiresAt": null
+    },
+    {
+      "code": "FALL2024",
+      "vbucks": 2024,
+      "expiresAt": null
+    },
+    {
+      "code": "MEGA5000",
+      "vbucks": 5000,
+      "expiresAt": null
+    },
+    {
+      "code": "SUPER3000",
+      "vbucks": 3000,
+      "expiresAt": null
+    },
+    {
+      "code": "ULTRA2500",
+      "vbucks": 2500,
+      "expiresAt": null
+    },
+    {
+      "code": "MAX10000",
+      "vbucks": 10000,
+      "expiresAt": null
+    },
+    {
+      "code": "THANKYOU",
+      "vbucks": 500,
+      "expiresAt": null
+    },
+    {
+      "code": "COMMUNITY",
+      "vbucks": 1000,
+      "expiresAt": null
+    },
+    {
+      "code": "SUPPORTER",
+      "vbucks": 1500,
+      "expiresAt": null
+    },
+    {
+      "code": "CHAMPION",
+      "vbucks": 2000,
+      "expiresAt": null
+    },
+    {
+      "code": "HERO3000",
+      "vbucks": 3000,
+      "expiresAt": null
+    },
+    {
+      "code": "LEGEND5000",
+      "vbucks": 5000,
+      "expiresAt": null
+    },
+    {
+      "code": "MASTER10000",
+      "vbucks": 10000,
+      "expiresAt": null
+    }
+  ],
+  "_comment": "Add your redemption codes here. Set expiresAt to null for codes that never expire, or use ISO date format like '2024-12-31T23:59:59.000Z'"
+}
+
