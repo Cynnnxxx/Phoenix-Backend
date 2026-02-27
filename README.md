@@ -1,6 +1,6 @@
 # Phoenix Backend
 
-![Imgur]([https://i.imgur.com/ImIwpRm.png](https://i.imgur.com/5Sw2FXF.png))
+![Imgur][(https://i.imgur.com/5Sw2FXF.png])
 
 Phoenix Backend is a universal Fortnite private server backend written in [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
