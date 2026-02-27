@@ -156,4 +156,5 @@ Credits have been moved to the **Contributors** section of github. If I forgot t
 
 ---
 
-**Reload Backend** is under continuous development and there could be errors of any kind, if you want to give advice on what to add and how to improve the project or report any errors you can do so by writing to **cynnnxxx** on Discord
+**Phoenix Backend** is under continuous development and there could be errors of any kind, if you want to give advice on what to add and how to improve the project or report any errors you can do so by writing to **cynnnxxx** on Discord
+Credit to burlone for the text
