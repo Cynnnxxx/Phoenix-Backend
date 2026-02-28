@@ -19,7 +19,7 @@
               "url": "https://i.imgur.com/oMvVBgB.jpeg"
             }
           ],
-          "tabTitleOverride": "Axys",
+          "tabTitleOverride": "Phoenix",
           "tileImage": [
             {
               "width": 1024,
@@ -28,19 +28,19 @@
             }
           ],
           "title": {
-            "ar": "مرحبًا بك في Axys!",
-            "en": "Welcome to Axys!",
-            "de": "Willkommen bei Axys!",
-            "es": "¡Bienvenidos a Axys!",
-            "es-419": "¡Bienvenidos a Axys!",
-            "fr": "Bienvenue sur Axys !",
-            "it": "Benvenuto in Axys!",
-            "ja": "Axysへようこそ！",
-            "ko": "Axys에 오신 것을 환영합니다!",
-            "pl": "Witaj w Axysze!",
-            "pt-BR": "Bem-vindo ao Axys!",
-            "ru": "Добро пожаловать в Axys!",
-            "tr": "Axys'a Hoş Geldiniz!"
+            "ar": "مرحبًا بك في Phoenix!",
+            "en": "Welcome to Phoenix!",
+            "de": "Willkommen bei Phoenix!",
+            "es": "¡Bienvenidos a Phoenix!",
+            "es-419": "¡Bienvenidos a Phoenix!",
+            "fr": "Bienvenue sur Phoenix !",
+            "it": "Benvenuto in Phoenix!",
+            "ja": "Phoenixへようこそ！",
+            "ko": "Phoenix에 오신 것을 환영합니다!",
+            "pl": "Witaj w Phoenixze!",
+            "pt-BR": "Bem-vindo ao Phoenix!",
+            "ru": "Добро пожаловать в Phoenix!",
+            "tr": "Phoenix'a Hoş Geldiniz!"
           },
           "videoAutoplay": true,
           "videoLoop": true,
@@ -49,7 +49,7 @@
           "websiteButtonText": "JOIN THE DISCORD",
           "websiteURL": "https://discord.gg/T9dtVC38xk"
         },
-        "contentHash": "projectAxysContentHash1337",
+        "contentHash": "projectPhoenixContentHash1337",
         "contentSchemaName": "MotdWebsiteNewsWithVideo"
       },
       {
@@ -68,7 +68,7 @@
               "url": "https://i.imgur.com/v6A3Nq1.jpeg"
             }
           ],
-          "tabTitleOverride": "Axys - What's New",
+          "tabTitleOverride": "Phoenix - What's New",
           "tileImage": [
             {
               "width": 1024,
@@ -86,7 +86,7 @@
           "websiteButtonText": "JOIN THE DISCORD",
           "websiteURL": "https://discord.gg/T9dtVC38xk"
         },
-        "contentHash": "projectAxysContentHash1338",
+        "contentHash": "projectPhoenixContentHash1338",
         "contentSchemaName": "MotdWebsiteNewsWithVideo"
       },
       {
@@ -105,7 +105,7 @@
               "url": "https://i.imgur.com/9XZW4rJ.jpeg"
             }
           ],
-          "tabTitleOverride": "Axys - Compete",
+          "tabTitleOverride": "Phoenix - Compete",
           "tileImage": [
             {
               "width": 1024,
@@ -123,7 +123,7 @@
           "websiteButtonText": "JOIN THE DISCORD",
           "websiteURL": "https://discord.gg/T9dtVC38xk"
         },
-        "contentHash": "projectAxysContentHash1339",
+        "contentHash": "projectPhoenixContentHash1339",
         "contentSchemaName": "MotdWebsiteNewsWithVideo"
       },
       {
@@ -160,7 +160,7 @@
           "websiteButtonText": "JOIN THE DISCORD",
           "websiteURL": "https://discord.gg/T9dtVC38xk"
         },
-        "contentHash": "projectAxysContentHash1340",
+        "contentHash": "projectPhoenixContentHash1340",
         "contentSchemaName": "MotdWebsiteNewsWithVideo"
       }
     ]
