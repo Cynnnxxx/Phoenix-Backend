@@ -178,7 +178,7 @@
                     "playlist_name": "Playlist_Creative_Squad_Battle_32_A",
                     "violator": "COMMUNITY CREATION",
                     "_type": "FortPlaylistInfo",
-                    "description": "Created by Team Evolve. Featured in the Fortnite World Cup Creative Finals.  Battle other squads to capture zones and score points! Any player can capture a zone and score points for your team. Use imAxys grenades to blast other teams out of the capture zones. Players can now earn XP after each game and the top three teams will earn bonus XP."
+                    "description": "Created by Team Evolve. Featured in the Fortnite World Cup Creative Finals.  Battle other squads to capture zones and score points! Any player can capture a zone and score points for your team. Use imPhoenix grenades to blast other teams out of the capture zones. Players can now earn XP after each game and the top three teams will earn bonus XP."
                 },
                 {
                     "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlistinformation/BR_LTM_OneShot-1024x512-9914c2c88b21f72f9628681e0cbcd20bb7311a3f.jpg",
@@ -988,7 +988,7 @@
                     "loading_screen_image": "https://i.imgur.com/faMQaEO.png",
                     "background_text_color": "1B1B1B",
                     "background_right_color": "DD091A",
-                    "poster_back_image": "http://s19.api.axysog.fun:3551/Assets/axys-wintercup.jpg",
+                    "poster_back_image": "http://s19.api.Phoenixog.fun:3551/Assets/Phoenix-wintercup.jpg",
                     "_type": "Tournament Display Info",
                     "pin_earned_text": "ARENA DUOS",
                     "tournament_display_id": "ArenaDuos",
@@ -996,7 +996,7 @@
                     "schedule_info": "Always available",
                     "primary_color": "FFFFFF",
                     "flavor_description": "Prove your skill in Duos!",
-                    "poster_front_image": "http://s19.api.axysog.fun:3551/Assets/axys-wintercup.jpg",
+                    "poster_front_image": "http://s19.api.Phoenixog.fun:3551/Assets/Phoenix-wintercup.jpg",
                     "short_format_title": "Event Sessions",
                     "title_line_2": "Lategame-Arena Duos",
                     "title_line_1": "",
@@ -1006,7 +1006,7 @@
                     "long_format_title": "Lategame-Arena Duos",
                     "poster_fade_color": "DD091A",
                     "secondary_color": "1B1B1B",
-                    "playlist_tile_image": "http://s19.api.axysog.fun:3551/Assets/ArenaSoloPlaylist.png",
+                    "playlist_tile_image": "http://s19.api.Phoenixog.fun:3551/Assets/ArenaSoloPlaylist.png",
                     "base_color": "FFFFFF"
                 },
               {
@@ -1192,7 +1192,7 @@
                 {
                     "hidden": true,
                     "_type": "CommonUI Simple Message Base",
-                    "title": "Axys",
+                    "title": "Phoenix",
                     "body": "Expect bugs and glitches as we are still in early development!",
                     "spotlight": true
                 }
@@ -1217,7 +1217,7 @@
                     "gamemodes": [],
                     "hidden": false,
                     "_type": "CommonUI Emergency Notice Base",
-                    "title": "Axys",
+                    "title": "Phoenix",
                     "body": "Expect bugs and glitches as we are still in early development!"
                 }
             ]
@@ -1497,7 +1497,7 @@
                         "stage": "default"
                     },
                     "landingPriority": 1,
-                    "sectionDisplayName": "Axys ITEM SHOP",
+                    "sectionDisplayName": "Phoenix ITEM SHOP",
                     "sectionId": "Featured"
                 }
             ]
